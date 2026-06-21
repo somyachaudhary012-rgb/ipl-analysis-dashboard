@@ -25,3 +25,4 @@ This project analyzes IPL data using Python and Power BI.
 
 ## Author
 Somya Chaudhary
+B.Tech ECE | JIIT Noida
